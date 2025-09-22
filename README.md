@@ -131,6 +131,5 @@ docker-compose up -d
 
 
 ## Disclaimer
-```bash
 
 This is part of ITT450: Introduction to Cybersecurity projects
