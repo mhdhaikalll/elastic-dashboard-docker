@@ -2,6 +2,18 @@
 
 Complete Elastic Stack setup with Docker Compose including Elasticsearch, Kibana, Logstash, Filebeat, and Metricbeat with SSL/TLS security.
 
+## Table of Contents
+
+- [Quick Start](#quick-start)
+- [Prerequisites](#prerequisites)
+- [Environment Variables](#environment-variables)
+- [Components](#components)
+- [Data Ingestion](#data-ingestion)
+- [Common Commands](#common-commands)
+- [Troubleshooting](#troubleshooting)
+- [Security](#security)
+- [Disclaimer](#disclaimer)
+
 ## Quick Start
 
 1. **Clone and setup**
@@ -123,6 +135,8 @@ docker-compose down
 docker volume rm elastic-dashboard-docker_certs
 docker-compose up -d
 ```
+
+## Security
 
 - All inter-service communication uses SSL/TLS
 - Certificates auto-generated on first run
