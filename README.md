@@ -129,6 +129,8 @@ docker-compose up -d
 - Authentication required for all access
 - Passwords configurable via environment variables
 
-### Disclaimer
+
+## Disclaimer
+```bash
 
 This is part of ITT450: Introduction to Cybersecurity projects
