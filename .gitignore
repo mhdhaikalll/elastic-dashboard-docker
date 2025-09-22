@@ -3,4 +3,4 @@
 /logstash_ingest_data
 
 #environment variables
-.env*
+.env
