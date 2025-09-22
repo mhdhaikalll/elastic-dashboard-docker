@@ -1,0 +1,6 @@
+#unnecessary files
+/filebeat_ingest_data
+/logstash_ingest_data
+
+#environment variables
+.env*
