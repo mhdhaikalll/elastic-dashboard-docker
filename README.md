@@ -128,3 +128,7 @@ docker-compose up -d
 - Certificates auto-generated on first run
 - Authentication required for all access
 - Passwords configurable via environment variables
+
+### Disclaimer
+
+This is part of ITT450: Introduction to Cybersecurity projects
